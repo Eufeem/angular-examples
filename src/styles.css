@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    position: relative;
+    padding-bottom: 3em;
+    min-height: 100vh;
+}
+
+.footer {
+    background-color: #004f9a;
+    position: absolute;
+    bottom: 0; 
+    width: 100%;
+}
+
+.bg-dark-blue {
+    background-color: #004f9a;
+}
+
+.bg-dark-yellow {
+    background-color: #FFB71B;
+}   
